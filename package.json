@@ -1,0 +1,12 @@
+{
+  "name": "flerken",
+  "version": "0.1.0",
+  "description": "GitHub with Superpowers",
+  "main": "cli.js",
+  "repository": "git@github.com:bntzio/flerken.git",
+  "author": "Enrique Benitez <hello@bntz.io>",
+  "license": "MIT",
+  "bin": {
+    "flerken": "cli.js"
+  }
+}
